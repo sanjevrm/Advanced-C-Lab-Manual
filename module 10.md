@@ -376,9 +376,7 @@ Output:
 ![image](https://github.com/user-attachments/assets/880ea215-fd85-4206-b3fa-319c58beb774)
 
 
-Result:
-
-Thus, the function that deletes a given element from a linked list is verified successfully.
+Result:Thus, the function that deletes a given element from a linked list is verified successfully.
 
 
 
